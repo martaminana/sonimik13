@@ -15,7 +15,7 @@
 <h2 align = "left"> Sobre mí </h2>
 
 
-- 💻 Mi porfolio [portfolio](https://sonimik13.github.io/jekyll-theme-skinny-bones/)
+- 💻 Mi [portfolio](https://sonimik13.github.io/jekyll-theme-skinny-bones/)
 
 - 🤝 Busco nuevos proyectos para seguir formándome (*****¿Quieres contar conmigo?*****)
 
