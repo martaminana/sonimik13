@@ -42,8 +42,8 @@
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFFFFF?style=flat&link=https://github.com/elsaTH)
   ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FFFFFF?style=flat&link=https://github.com/elsaTH)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=black)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 - 🔧 &nbsp;
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)
