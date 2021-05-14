@@ -32,7 +32,7 @@
   ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
   [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
   [![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
-  [![Sklearn](https://img.shields.io/badge/-Sklearn-FFFFFF?style=flat&logo=sklearn&link=https://github.com/elsaTH)](https://github.com/elsaTH) 
+  [![Scikit-learn](https://img.shields.io/badge/Scikit-learn-black?style=flat&logo=Scikit-learn&logoColor=orange)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/elsaTH)
   [![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF?style=flat&logo=Seaborn&logoColor=white&link=https://github.com/elsaTH)](https://github.com/elsaTH)
   [![Plotly](https://img.shields.io/badge/-Plotly-FFFFFF?style=flat&logo=Plotly&logoColor=white&link=https://github.com/elsaTH)](https://github.com/elsaTH)
@@ -65,7 +65,7 @@
  <h3> Herramientas de visualización </h3>
 
   - ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white)
-  - ![Streamlit](https://img.shields.io/badge/-Streamlit-white?style=flat&logo=Streamlit&logoColor=red)
+  - ![Streamlit](https://img.shields.io/badge/Streamlit-white?style=flat&logo=Streamlit&logoColor=red)
 
 
  <h3> En proceso de aprendizaje </h3>
