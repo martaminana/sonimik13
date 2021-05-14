@@ -2,9 +2,6 @@
 
 ### Bienvenidos a mi GitHub
 
-
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
 <h1 align = "center"> Mi nombre es Sonia Dosio </h1>
 <h3 align = "left"> Una apasionada de Data Science en Bilbao</h3>
 
