@@ -46,7 +46,7 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 - 🔧 &nbsp;
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
   ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
  - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-FFFFFF?style=flat&logo=adobe-photoshop)
@@ -70,7 +70,7 @@
 
  <h3> En proceso de aprendizaje </h3>
 
-- AWS amazon | Docker🐳 | Heroku | flask
+- AWS amazon | Postamn | Flask | Cloud | Spark | Hadoop
 </br>
 <h2 align="left">Mi historial de  GITHUB</h2>
 
