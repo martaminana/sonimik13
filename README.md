@@ -7,7 +7,7 @@
 
 [![Linkedin: Sonia Dosio](https://img.shields.io/badge/-soniadosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soniadosio/)](https://www.linkedin.com/in/sonia-dosio-revenga-17812245/)
 [![Gmail Badge](https://img.shields.io/badge/-sondr62@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sondr62@gmail.com)](mailto:sondr62b@gmail.com)
-[![GitHub sonimik13](https://img.shields.io/github/followers/sonimik13?label=follow&style=social)](https://github.com/onimik13)
+[![GitHub sonimik13](https://img.shields.io/github/followers/sonimik13?label=follow&style=social)](https://github.com/sonimik13)
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </br>
 </br>
@@ -17,7 +17,7 @@
 
 - 💻 Mi porfolio [portfolio](https://sonimik13.github.io/jekyll-theme-skinny-bones/)
 
-- 🤝 Busco nuevos proyectos [para seguir formándome] (*****¿Quieres contar conmigo?*****)
+- 🤝 Busco nuevos proyectos para seguir formándome (*****¿Quieres contar conmigo?*****)
 
 - 👩🏻‍💻 Mis proyectos están disponibles en [https://github.com/sonimik13](https://github.com/sonimik13)
 
@@ -29,9 +29,9 @@
 
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat&logo=python)
-  [![Pandas](https://img.shields.io/badge/-Pandas-FFFFFF?style=flat&logo=Pandas&logoColor=blue&link=https://github.com/elsaTH)](https://github.com/elsaTH)
-  [![Numpy](https://img.shields.io/badge/-Numpy-FFFFFF?style=flat&logo=Numpy&logoColor=blue&link=https://github.com/elsaTH)](https://github.com/elsaTH)
+  ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+  [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+  [![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
   [![Sklearn](https://img.shields.io/badge/-Sklearn-FFFFFF?style=flat&logo=sklearn&link=https://github.com/elsaTH)](https://github.com/elsaTH) 
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FFFFFF?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/elsaTH)
   [![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF?style=flat&logo=Seaborn&logoColor=white&link=https://github.com/elsaTH)](https://github.com/elsaTH)
