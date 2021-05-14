@@ -33,7 +33,7 @@
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
   ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
   ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-black?style=flat&logo=Scikit-learn&logoColor=orange)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-white?style=flat&logo=Seaborn&logoColor=blue)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat&logo=Seaborn&logoColor=blue)
   ![Plotly](https://img.shields.io/badge/Plotly-white?style=flat&logo=Plotly&logoColor=blue)
 - 🛢 &nbsp;
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
