@@ -6,7 +6,7 @@
 <h3 align = "left"> Una apasionada de Data Science en Bilbao</h3>
 
 [![Linkedin: Sonia Dosio](https://img.shields.io/badge/-soniadosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soniadosio/)](https://www.linkedin.com/in/sonia-dosio-revenga-17812245/)
-[![Gmail Badge](https://img.shields.io/badge/-sondr62@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sondr62@gmail.com)](mailto:sondr62b@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sondr62@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sondr62@gmail.com)](mailto:sondr62@gmail.com)
 [![GitHub sonimik13](https://img.shields.io/github/followers/sonimik13?label=follow&style=social)](https://github.com/sonimik13)
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </br>
