@@ -65,7 +65,7 @@
  <h3> Herramientas de visualización </h3>
 
   - ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white)
-
+  - ![Streamlit](https://img.shields.io/badge/-Streamlit-white?style=flat&logo=Streamlit&logoColor=red)
 
 
  <h3> En proceso de aprendizaje </h3>
