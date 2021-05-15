@@ -19,7 +19,7 @@
 
 - 🤝 Busco nuevos proyectos para seguir formándome (*****¿Quieres contar conmigo?*****)
 
-- 👩🏻‍💻 Mis proyectos están disponibles en [https://github.com/sonimik13](https://github.com/sonimik13)
+- 👩🏻‍💻 Mis proyectos están disponibles en mi [GitHub](https://github.com/sonimik13)
 
 - 💬 Sobre mí **    que decir !!!____________         Mejor conóceme y opina 😉 **
 
