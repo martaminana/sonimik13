@@ -68,7 +68,7 @@
 
   - ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white)
   - ![Streamlit](https://img.shields.io/badge/Streamlit-white?style=flat&logo=Streamlit&logoColor=red)
-
+  - ![TensorBoard](https://img.shields.io/badge/TensorBoard-white?style=flat&logo=TensorBoard&logoColor=orange)
 
  <h3> En proceso de aprendizaje </h3>
 
