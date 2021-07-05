@@ -36,7 +36,7 @@
   ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=flat&logo=Seaborn&logoColor=blue)
   ![Plotly](https://img.shields.io/badge/Plotly-white?style=flat&logo=Plotly&logoColor=blue)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat&link=https://github.com/elsaTH)
   ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FFFFFF?style=flat&link=https://github.com/elsaTH)
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
