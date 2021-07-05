@@ -72,7 +72,7 @@
 
  <h3> En proceso de aprendizaje </h3>
 
-- AWS amazon | Postamn | Flask | Cloud | Spark | Hadoop
+- AWS amazon | Postman | Flask | Cloud | PySpark | Hadoop
 </br>
 <h2 align="left">Mi historial de GitHub</h2>
 
