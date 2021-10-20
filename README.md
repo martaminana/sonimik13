@@ -32,8 +32,6 @@
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat&link=https://github.com/elsaTH)
   ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-FFFFFF?style=flat&link=https://github.com/elsaTH)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFFFFF?style=flat&link=https://github.com/elsaTH)
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
@@ -44,9 +42,6 @@
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  
   
-
-
-
 
 
 
