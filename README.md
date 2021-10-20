@@ -57,18 +57,5 @@
 
 
 
-<h2 align="left">Mi historial de GitHub</h2>
 
 
-
-<h4 align="left">Lenguajes de programación</h4>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonimik13&langs_count=10&theme=buefy&layout=compact" alt="sonimik13" /></p>
-
-<h4 align="left">Estadísticas del perfil :musical_keyboard:</h4>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=sonimik13&show_icons=true&theme=buefy" alt="sonimik13" /></p>
-
-<h4 align="left">Visitantes... :eyes:</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{sonimik13}/count.svg" alt="sonimik13" /></p>
-
-</br>
-<hr>
